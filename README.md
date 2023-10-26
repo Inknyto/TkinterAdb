@@ -1,1 +1,1 @@
-A simple tkinter app for manipulating android devices using ADD
+A simple tkinter app for manipulating android devices using Android Debug Bridge
